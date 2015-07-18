@@ -1,5 +1,7 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 /* THEME PINK */
@@ -124,10 +126,43 @@ body {
 
 /*  ******************************************************************** */
 
+.header {
+  width: 900px;
+  margin: 0 auto;
+  /*padding: 30px 0;*/
+  height: 55px;
+  top: 0;
+  left: 50%;
+  right: 50%;
+  background: white;
+  /*border-bottom: 1px solid #E8E8E8;*/
+}
+
+.header .header-item {
+  width: 448px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  padding: 8px 0 11px 0;
+  color: #3498db;
+  font-size: 14px;
+  border-bottom: 1px solid #E8E8E8;
+}
+
+.header .header-item:hover {
+  border-bottom: 1px solid #3498db !important;
+}
+
+
+.header .selected {
+  border-bottom: 1px solid #3498db;
+}
+
 .content {
   width: 900px;
   background: #ffffff;
-  margin: 50px auto;
+  margin: 20px auto;
+  border-top: 1px solid #E8E8E8;
 }
 
 .main-container {}
@@ -290,4 +325,8 @@ body {
 
 .font14 {
   font-size: 14px !important;
+}
+
+.a-unstiled {
+  text-decoration: none;
 }
