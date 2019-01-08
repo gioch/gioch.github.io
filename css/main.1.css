@@ -169,15 +169,15 @@ body {
 
 .main-container .left {
   border-right: 1px solid #E8E8E8;
-  min-width: 554px;
-  max-width: 554px;
+  min-width: 460px;
+  max-width: 460px;
   padding: 0 30px 30px 80px;
   display: inline-block;
   vertical-align: top;
 }
 
 .main-container .right {
-  padding: 0px 0px 0px 25px;
+  padding: 0 80px 30px 45px;
   display: inline-block;
   max-width: 200px;
   vertical-align: top;
@@ -201,6 +201,7 @@ body {
 }
 
 .cv-title .about {
+  margin-left: 10px;
   vertical-align: top;
   display: inline-block;
 }
@@ -255,7 +256,7 @@ body {
 
 .section .section-content .description {
   margin-top: 5px;
-  font-size: 14px;
+  font-size: 13px;
   color: #959595;
 }
 

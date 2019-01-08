@@ -1,0 +1,26 @@
+About
+  Studied computer science for 2.5 years in Tbilisi State University of Georgia, 2 years in Georgian Technical University.
+  Having 8 years of total experience in the field. Experienced backend Rails developer.
+  Great at building complex architectures and relational database designs.
+  Years of experience with front-end, primarily ReactJS and VueJS. Passionate about learning new stuff
+
+
+Experrience
+  some website with vuejs
+
+  walletcard
+
+  eden
+
+  soberliving
+
+  vereloft(do simple landing page)
+
+  terminal(do simple landing page)
+
+  geotarget
+
+  rever
+
+Blog Posts
+....
